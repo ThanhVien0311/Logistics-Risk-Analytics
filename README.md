@@ -53,9 +53,12 @@ Giải mã "hộp đen" Machine Learning, bóc tách và định lượng các y
 ├── BaoCaoNhom_DA19.pdf                   # File Báo cáo chi tiết của nhóm
 └── README.md                             # Tài liệu mô tả dự án
 
-🎥 Video Demo Sản Phẩm
-Xem video giới thiệu và demo chi tiết thao tác trên hệ thống tại đây:
-👉 Video Demo Hệ Thống Logistics Risk Analytics
+
+## 🎥 Video Demo Sản Phẩm
+
+Mời thầy/cô và các bạn xem video giới thiệu và trải nghiệm trực tiếp toàn bộ luồng hoạt động (End-to-End) của hệ thống tại đây: 
+
+👉 **[Xem Video Demo Hệ Thống Logistics Risk Analytics](https://drive.google.com/file/d/1UwGuxPksoLSX0p_cLF2wDeHTBvAqEMPm/view?usp=sharing)**
 
 👥 Nhóm Thực Hiện (Team Members)
 
