@@ -1,10 +1,10 @@
-<img width="131" height="48" alt="image" src="https://github.com/user-attachments/assets/3888df0f-b3e5-4f7c-a8cf-66a589feec4a" /># Logistics-Risk-Analytics
+# Logistics-Risk-Analytics
 XÂY DỰNG HỆ THỐNG PHÂN TÍCH CHẬM TRỄ GIAO HÀNG VÀ DỰ ĐOÁN NGUY CƠ DELAY TRONG LOGISTICS
 🚛 Cảnh Báo Sớm Rủi Ro Giao Hàng Trễ (Logistics Risk Analytics)
 
 Dự án cuối kỳ: Xây dựng hệ thống phân tích hiệu suất và dự đoán nguy cơ delay trong chuỗi cung ứng logistics.
 
-![Project Banner/Dashboard Image]([https://github.com/ThanhVien0311/Logistics-Risk-Analytics/blob/main/dashboard.png?raw=true])
+https://github.com/ThanhVien0311/Logistics-Risk-Analytics/blob/main/dashboard.png?raw=true
 
 📌 Giới Thiệu Dự Án (Project Overview)
 
