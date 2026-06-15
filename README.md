@@ -43,17 +43,7 @@ Giải mã "hộp đen" Machine Learning, bóc tách và định lượng các y
 **4. Hệ Thống Cảnh Báo Sớm & What-If Analysis**
 * Tự động tính toán Điểm Rủi Ro (Delivery Risk Score) và tích hợp trở lại Power BI tạo thành "Danh sách đen AI".
 * Mô phỏng các kịch bản can thiệp thực tế (Đổi loại xe tối ưu, Cấp thêm thời gian đệm) để đề xuất hướng hành động ngay lập tức cho nhân viên điều phối trước khi sự cố xảy ra.
-
-## 📂 Cấu Trúc Repository
-
-```text
-├── DA19_Logistics_BI_Dashboard.pbix      # File Power BI chứa Data Model, DAX và Dashboards
-├── DA19_Logistics_ML_Prediction.ipynb    # Code Python chứa tiền xử lý, huấn luyện ML và SHAP
-├── DA19_Logistics_AI_Risk_Data.csv       # Dữ liệu xuất ra từ mô hình AI (Cầu nối tích hợp lên Power BI)
-├── BaoCaoNhom_DA19.pdf                   # File Báo cáo chi tiết của nhóm
-└── README.md                             # Tài liệu mô tả dự án
-
-
+  
 ## 🎥 Video Demo Sản Phẩm
 
 Mời thầy/cô và các bạn xem video giới thiệu và trải nghiệm trực tiếp toàn bộ luồng hoạt động (End-to-End) của hệ thống tại đây: 
@@ -71,3 +61,15 @@ Nguyễn Văn Tĩnh - 65133671
 Lê Thành Phát - 65131428
 
 Nguyễn Gia Khang - 65131699
+
+
+## 📂 Cấu Trúc Repository
+
+```text
+├── DA19_Logistics_BI_Dashboard.pbix      # File Power BI chứa Data Model, DAX và Dashboards
+├── DA19_Logistics_ML_Prediction.ipynb    # Code Python chứa tiền xử lý, huấn luyện ML và SHAP
+├── DA19_Logistics_AI_Risk_Data.csv       # Dữ liệu xuất ra từ mô hình AI (Cầu nối tích hợp lên Power BI)
+├── BaoCaoNhom_DA19.pdf                   # File Báo cáo chi tiết của nhóm
+└── README.md                             # Tài liệu mô tả dự án
+
+
