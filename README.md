@@ -48,7 +48,7 @@ Giải mã "hộp đen" Machine Learning, bóc tách và định lượng các y
 
 Mời thầy/cô và các bạn xem video giới thiệu và trải nghiệm trực tiếp toàn bộ luồng hoạt động (End-to-End) của hệ thống tại đây: 
 
-👉 **[Xem Video Demo Hệ Thống Logistics Risk Analytics](https://drive.google.com/file/d/1UwGuxPksoLSX0p_cLF2wDeHTBvAqEMPm/view?usp=sharing)**
+👉 **[Xem Video Demo Hệ Thống Logistics Risk Analytics](https://drive.google.com/file/d/1MlGBl5YA4MLV8H3BkqiSa9wU-rjBCL4Z/view?usp=sharing)**
 
 👥 Nhóm Thực Hiện (Team Members):
 
